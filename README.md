@@ -1,8 +1,8 @@
-# React-Webpack-Bootstrap Boilerplate
+# React-Webpack-Foundation Boilerplate
 
 ## Features
 - Webpack building system
-- Bootstrap 3
+- Foundation 6
 
 ## Webpack Loaders
 - URL
